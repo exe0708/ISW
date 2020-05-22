@@ -12,7 +12,7 @@
 
 - #### [A user story primer (2009) Manifiesto Ágil](http://agilemanifesto.org)
 
-# Teorico
+# Clases Teoricas
 
 1. ### Requerimientos Ágiles
   - #### [Parte 1](https://youtu.be/1AiwAxyxpc0)
@@ -38,7 +38,7 @@
   - #### [Parte 2](https://youtu.be/MQPfWdtGYfw) 
   - #### [Parte 3](https://youtu.be/Oggb1RqDIaE)
   
-  # Practico
+  # Clases Practicas
   
 1. ### User Stories Parte 1
   - #### [Parte 1](https://youtu.be/LPdKRNBrCuo)
