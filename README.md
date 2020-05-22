@@ -3,39 +3,24 @@
 
 - #### [Orphans Preferred](https://www.gamasutra.com/view/feature/131820/orphans_preferred.php])
 
-#### - [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+- #### [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 
-## * Software’s Ten Essentials 
+- ####  [Software’s Ten Essentials](https://stevemcconnell.com/articles/software-ten-essentials/)
+- ####  [Fowler, Martin – The new methodology](http://martinfowler.com/articles/newMethodology.html)
 
-[3](https://stevemcconnell.com/articles/software-ten-essentials/)
-## * Fowler, Martin – The new methodology
+- #### [Dean Leffingwell and Pete Behrens](http://www.scrumguides.org/download.html)   
 
-[4](http://martinfowler.com/articles/newMethodology.html)
-
-## * Dean Leffingwell and Pete Behrens
-
-[5](http://www.scrumguides.org/download.html)   
-
-## * A user story primer (2009) Manifiesto Ágil 
-
-[6](http://agilemanifesto.org)
+- #### [A user story primer (2009) Manifiesto Ágil] (http://agilemanifesto.org)
 
 # Teorico
 
-##Requerimientos Ágiles
-###Parte 1
-[https://youtu.be/1AiwAxyxpc0]
-###Parte2
-[https://youtu.be/WisD_6j5Vhg]
-###Parte3 
-[https://youtu.be/mVe-mSnL0O8]
-
-
-##Gestión de Producto 
-###Parte 1
-[https://youtu.be/UZ6U--an6uo] 
-###Parte 2
-[https://youtu.be/5JmrpD_4UQQ]
+- ###Requerimientos Ágiles
+  - #### [Parte 1](https://youtu.be/1AiwAxyxpc0)
+  - #### [Parte2](https://youtu.be/WisD_6j5Vhg)
+  - #### [Parte3](https://youtu.be/mVe-mSnL0O8)
+- ### Gestión de Producto 
+  - ####[Parte 1](https://youtu.be/UZ6U--an6uo) 
+  - ####[Parte 2](https://youtu.be/5JmrpD_4UQQ)
 
 ##Gestión de Configuración
 ###Parte 1
