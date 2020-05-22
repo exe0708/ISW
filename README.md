@@ -1,30 +1,30 @@
 # ISW
-#Material de Lectura de la Catedra
+# Material de Lectura de la Catedra
 
-##Orphans Preferred
+## * Orphans Preferred
 
-[https://www.gamasutra.com/view/feature/131820/orphans_preferred.php]
+[1](https://www.gamasutra.com/view/feature/131820/orphans_preferred.php])
 
-##No Silver Bullet 
+## * No Silver Bullet 
 
-[http://worrydream.com/refs/Brooks-NoSilverBullet.pdf]
+[2](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 
-##Software’s Ten Essentials 
+## * Software’s Ten Essentials 
 
-[https://stevemcconnell.com/articles/software-ten-essentials/]
-##Fowler, Martin – The new methodology
+[3](https://stevemcconnell.com/articles/software-ten-essentials/)
+## * Fowler, Martin – The new methodology
 
-[http://martinfowler.com/articles/newMethodology.html]
+[4](http://martinfowler.com/articles/newMethodology.html)
 
-##Dean Leffingwell and Pete Behrens
+## * Dean Leffingwell and Pete Behrens
 
-[http://www.scrumguides.org/download.html]   
+[5](http://www.scrumguides.org/download.html)   
 
-##A user story primer (2009) Manifiesto Ágil 
+## * A user story primer (2009) Manifiesto Ágil 
 
-[http://agilemanifesto.org]
+[6](http://agilemanifesto.org)
 
-#Teorico
+# Teorico
 
 ##Requerimientos Ágiles
 ###Parte 1
