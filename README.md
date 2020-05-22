@@ -37,3 +37,19 @@
   - #### [Parte 1](https://youtu.be/CkRfwRR5KJM)
   - #### [Parte 2](https://youtu.be/MQPfWdtGYfw) 
   - #### [Parte 3](https://youtu.be/Oggb1RqDIaE)
+  
+  # Practico
+  
+  1. ### User Stories Parte 1
+    - #### [Parte 1](https://youtu.be/LPdKRNBrCuo)
+    - #### [Parte 2](https://youtu.be/nEGamEOivL8)
+    - #### [Parte 3](https://www.youtube.com/watch?v=wIN9SDfky-s)
+  2. ### User Stories Parte 2
+    - #### [Parte 1](https://www.youtube.com/watch?time_continue=5&v=WbBZbycSjlo&feature=emb_title)
+    - #### [Parte 2](https://youtu.be/Z-npTbsAqWk)
+  3. ### User Stories y Estimaciones Parte 1
+    - #### [Parte 1](https://www.youtube.com/watch?time_continue=1&v=QqtwUXiTNPw&feature=emb_title)
+    - #### [Parte 2](https://www.youtube.com/watch?time_continue=1&v=qgff9mEN8oU&feature=emb_title)
+  3. ### User Stories y Estimaciones Parte 2
+    - #### [Parte 1](https://www.youtube.com/watch?time_continue=3&v=Ldv7PiW-Guk&feature=emb_title)
+    
