@@ -1,13 +1,9 @@
 # ISW
-# Material de Lectura de la Catedra
+### Material de Lectura de la Catedra
 
-## * Orphans Preferred
+- #### [Orphans Preferred](https://www.gamasutra.com/view/feature/131820/orphans_preferred.php])
 
-[1](https://www.gamasutra.com/view/feature/131820/orphans_preferred.php])
-
-## * No Silver Bullet 
-
-[2](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+#### - [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 
 ## * Software’s Ten Essentials 
 
