@@ -1,21 +1,21 @@
 # ISW
 #Material de Lectura de la Catedra
-*##Orphans Preferred 
+##Orphans Preferred 
 [https://www.gamasutra.com/view/feature/131820/orphans_preferred.php]
-*##No Silver Bullet 
+##No Silver Bullet 
 [http://worrydream.com/refs/Brooks-NoSilverBullet.pdf]
-*##Software’s Ten Essentials 
+##Software’s Ten Essentials 
 [https://stevemcconnell.com/articles/software-ten-essentials/]
-*##Fowler, Martin – The new methodology
+##Fowler, Martin – The new methodology
 [http://martinfowler.com/articles/newMethodology.html]
-*##Dean Leffingwell and Pete Behrens
+##Dean Leffingwell and Pete Behrens
 [http://www.scrumguides.org/download.html]   
-*##A user story primer (2009) Manifiesto Ágil 
+##A user story primer (2009) Manifiesto Ágil 
 [http://agilemanifesto.org]
 
 #Teorico
 
-*##Requerimientos Ágiles
+##Requerimientos Ágiles
 ###Parte 1
 [https://youtu.be/1AiwAxyxpc0]
 ###Parte2
@@ -24,13 +24,13 @@
 [https://youtu.be/mVe-mSnL0O8]
 
 
-*##Gestión de Producto 
+##Gestión de Producto 
 ###Parte 1
 [https://youtu.be/UZ6U--an6uo] 
 ###Parte 2
 [https://youtu.be/5JmrpD_4UQQ]
 
-*##Gestión de Configuración
+##Gestión de Configuración
 ###Parte 1
 [https://youtu.be/JRoVfVFZUj0]
 ###Parte 2
@@ -38,7 +38,7 @@
 ###Parte 3
 [https://youtu.be/CzK6ASsphXI]
 
-*##Scrum y Métricas Agiles
+##Scrum y Métricas Agiles
 ###Parte 1
 [https://youtu.be/_q7y9Dy_Clo]
 ###Parte 2
@@ -48,7 +48,7 @@
 ###Parte 4
 [https://youtu.be/lvjUnWYiiHM]
 
-*##Testing
+##Testing
 ###Parte 1
 [https://youtu.be/CkRfwRR5KJM]
 ###Parte 2
