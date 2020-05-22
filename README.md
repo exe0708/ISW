@@ -10,40 +10,30 @@
 
 - #### [Dean Leffingwell and Pete Behrens](http://www.scrumguides.org/download.html)   
 
-- #### [A user story primer (2009) Manifiesto Ágil] (http://agilemanifesto.org)
+- #### [A user story primer (2009) Manifiesto Ágil](http://agilemanifesto.org)
 
 # Teorico
 
-- ###Requerimientos Ágiles
+1. ### Requerimientos Ágiles
   - #### [Parte 1](https://youtu.be/1AiwAxyxpc0)
   - #### [Parte2](https://youtu.be/WisD_6j5Vhg)
   - #### [Parte3](https://youtu.be/mVe-mSnL0O8)
-- ### Gestión de Producto 
-  - ####[Parte 1](https://youtu.be/UZ6U--an6uo) 
-  - ####[Parte 2](https://youtu.be/5JmrpD_4UQQ)
+2. ### Gestión de Producto 
+  - #### [Parte 1](https://youtu.be/UZ6U--an6uo) 
+  - #### [Parte 2](https://youtu.be/5JmrpD_4UQQ)
 
-##Gestión de Configuración
-###Parte 1
-[https://youtu.be/JRoVfVFZUj0]
-###Parte 2
-[https://youtu.be/bwNxA2g--q4]
-###Parte 3
-[https://youtu.be/CzK6ASsphXI]
+3. ### Gestión de Configuración
+  - #### [Parte 1](https://youtu.be/JRoVfVFZUj0)
+  - #### [Parte 2](https://youtu.be/bwNxA2g--q4)
+  - #### [Parte 3](https://youtu.be/CzK6ASsphXI)
 
-##Scrum y Métricas Agiles
-###Parte 1
-[https://youtu.be/_q7y9Dy_Clo]
-###Parte 2
-[https://youtu.be/TjM_jn5rwFY]
-###Parte 3
-[https://youtu.be/HI0f02T8ZSU]
-###Parte 4
-[https://youtu.be/lvjUnWYiiHM]
+4- ### Scrum y Métricas Agiles
+  - #### [Parte 1](https://youtu.be/_q7y9Dy_Clo)
+  - #### [Parte 2](https://youtu.be/TjM_jn5rwFY)
+  - #### [Parte 3](https://youtu.be/HI0f02T8ZSU)
+  - #### [Parte 4](https://youtu.be/lvjUnWYiiHM)
 
-##Testing
-###Parte 1
-[https://youtu.be/CkRfwRR5KJM]
-###Parte 2
-[https://youtu.be/MQPfWdtGYfw] 
-###Parte 3
-[https://youtu.be/Oggb1RqDIaE]
+5. ### Testing
+  - #### [Parte 1](https://youtu.be/CkRfwRR5KJM)
+  - #### [Parte 2](https://youtu.be/MQPfWdtGYfw) 
+  - #### [Parte 3](https://youtu.be/Oggb1RqDIaE)
