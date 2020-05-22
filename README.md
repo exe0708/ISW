@@ -27,7 +27,7 @@
   - #### [Parte 2](https://youtu.be/bwNxA2g--q4)
   - #### [Parte 3](https://youtu.be/CzK6ASsphXI)
 
-4- ### Scrum y Métricas Agiles
+4. ### Scrum y Métricas Agiles
   - #### [Parte 1](https://youtu.be/_q7y9Dy_Clo)
   - #### [Parte 2](https://youtu.be/TjM_jn5rwFY)
   - #### [Parte 3](https://youtu.be/HI0f02T8ZSU)
